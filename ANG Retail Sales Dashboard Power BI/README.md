@@ -82,16 +82,30 @@ This project helped improve my skills in:
 
 
 
-## Dashboard Preview
+## Dashboard Overview
+
+### Full Dashboard
 
 ![Full Dashboard](Screenshots/Full%20Dashboard.png)
-![KPI Analysis] (Screenshots/KPI-Analysis.png)
-![Full Dashboard] (Screenshots/Full-Dashboard.png)
-![Full Dashboard] (Screenshots/Full-Dashboard.png)
-![Full Dashboard] (Screenshots/Full-Dashboard.png)
-![Full Dashboard] (Screenshots/Full-Dashboard.png)
 
-Learning Outcome
+### KPI Analysis
+![KPI Analysis](Screenshots/KPI%20Analysis.png)
+
+### Product Analysis
+![Product Analysis](Screenshots/Product%20Analysis.png)
+
+### Store, Region And Sales Analysis
+
+![Store and Region Analysis](Screenshots/Store%20and%20Region%20Analysis.png)
+![Store and Region Analysis](Screenshots/Sales%20Analysis.png)
+
+### Monthly Trend Analysis
+![Monthly Trend Analysis](Screenshots/Monthly%20Trend%20Analysis.png)
+
+### Brand Performance
+![Brand Performance](Screenshots/Brand%20Performance.png)
+
+## Learning Outcome
 
 Through this project, I learned how to:
 - Transform raw sales data into meaningful insights
@@ -99,9 +113,14 @@ Through this project, I learned how to:
 - Use DAX measures for KPI calculations
 - Design professional Power BI reports
 
+## Files Included
+- Dashboard (.pbix)
+- Dataset Files
+- Screenshots
+- Business Insights File
 
 
-Author
+## Author
 
 Akhil Gupta  
 Aspiring Data Analyst
