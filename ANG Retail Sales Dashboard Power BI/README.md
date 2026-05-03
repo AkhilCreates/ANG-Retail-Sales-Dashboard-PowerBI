@@ -84,7 +84,7 @@ This project helped improve my skills in:
 
 ## Dashboard Preview
 
-![Full Dashboard] (Screenshots/Full-Dashboard.png)
+![Full Dashboard] (Screenshots/Full%20Dashboard.png)
 ![KPI Analysis] (Screenshots/KPI-Analysis.png)
 ![Full Dashboard] (Screenshots/Full-Dashboard.png)
 ![Full Dashboard] (Screenshots/Full-Dashboard.png)
