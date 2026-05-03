@@ -1,10 +1,10 @@
-ANG - Retail Sales Dashboard | Power BI
+# ANG - Retail Sales Dashboard | Power BI
 
-Project Overview
+## Project Overview
 
-This project is an interactive Retail Sales Dashboard developed using Power BI.
+### This project is an interactive Retail Sales Dashboard developed using Power BI.
 
-The dashboard provides business insights related to:
+#### The dashboard provides business insights related to:
 - Total Sales
 - Profit Analysis
 - Profit Margin
@@ -17,7 +17,7 @@ The goal of this dashboard is to help businesses monitor sales performance, iden
 
 ---
 
-Tools & Technologies Used
+## Tools & Technologies Used
 
 - Power BI
 - Power Query
@@ -27,7 +27,7 @@ Tools & Technologies Used
 
 
 
-Key KPIs
+## Key KPIs
 
 - Total Sales: 4.72 Billion
 - Total Quantity Sold: 316K
@@ -36,13 +36,13 @@ Key KPIs
 
 
 
-Dashboard Features
+## Dashboard Features
 
 Interactive Filters
 - Year-wise filter (2019–2024)
 - Customer Segment slicer
 
-Visualizations Used
+## Visualizations Used
 - KPI Cards
 - Bar Charts
 - Donut Charts
@@ -50,7 +50,7 @@ Visualizations Used
 - Geographic Map Analysis
 - Brand Performance Table
 
-Business Analysis Included
+## Business Analysis Included
 - Top 10 Products by Sales
 - Sales % by Store Type
 - Sales % by Region
@@ -60,7 +60,7 @@ Business Analysis Included
 
 
 
-Key Insights
+## Key Insights
 
 - Online stores contributed the highest sales percentage.
 - South region generated the highest sales contribution.
@@ -70,7 +70,7 @@ Key Insights
 
 
 
-Skills Demonstrated
+## Skills Demonstrated
 
 This project helped improve my skills in:
 - Data Cleaning using Power Query
@@ -82,11 +82,14 @@ This project helped improve my skills in:
 
 
 
-Dashboard Preview
+## Dashboard Preview
 
-(Add dashboard screenshot here)
-
-
+![Full Dashboard] (Screenshots/Full-Dashboard.png)
+![KPI Analysis] (Screenshots/KPI-Analysis.png)
+![Full Dashboard] (Screenshots/Full-Dashboard.png)
+![Full Dashboard] (Screenshots/Full-Dashboard.png)
+![Full Dashboard] (Screenshots/Full-Dashboard.png)
+![Full Dashboard] (Screenshots/Full-Dashboard.png)
 
 Learning Outcome
 
