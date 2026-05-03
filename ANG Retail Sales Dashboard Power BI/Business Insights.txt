@@ -1,0 +1,21 @@
+Business Insights
+
+1. Online stores contributed the highest share of total sales with nearly 38% contribution.
+
+2. South region generated the maximum sales among all regions, followed by Offline and Franchise channels.
+
+3. Desk and Washing Machine were the top-performing products based on sales value.
+
+4. The company maintained a healthy profit margin of 18.49%, indicating strong profitability.
+
+5. Monthly sales remained stable throughout the year with noticeable growth during later months.
+
+6. Brands like WorkWood and SpinWash generated high sales as well as strong profits.
+
+7. Some products showed high sales volume but comparatively lower profit contribution, indicating possible pricing or cost optimization opportunities.
+
+8. Geographic analysis shows strong sales concentration in major Indian states like Maharashtra, Gujarat, Rajasthan, and Tamil Nadu.
+
+9. The dashboard helps identify profitable products, regions, and store types for better business decision-making.
+
+10. Interactive filtering enables dynamic analysis by year and customer segment.
