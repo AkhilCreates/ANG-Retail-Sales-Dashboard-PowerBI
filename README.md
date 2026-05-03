@@ -89,21 +89,21 @@ This project helped improve my skills in:
 ![Full Dashboard](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Full%20Dashboard.png)
 
 ### KPI Analysis
-![KPI Analysis](Screenshots/KPI%20Analysis.png)
+![KPI Analysis](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/KPI%20Analysis.png)
 
 ### Product Analysis
-![Product Analysis](Screenshots/Product%20Analysis.png)
+![Product Analysis](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Product%20Analysis.png)
 
 ### Store, Region And Sales Analysis
 
-![Store and Region Analysis](Screenshots/Store%20and%20Region%20Analysis.png)
-![Store and Region Analysis](Screenshots/Sales%20Analysis.png)
+![Store and Region Analysis](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Store%20and%20Region%20Analysis.png)
+![Store and Region Analysis](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Sales%20Analysis.png)
 
 ### Monthly Trend Analysis
-![Monthly Trend Analysis](Screenshots/Monthly%20Trend%20Analysis.png)
+![Monthly Trend Analysis](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Monthly%20Trend%20Analysis.png)
 
 ### Brand Performance
-![Brand Performance](Screenshots/Brand%20Performance.png)
+![Brand Performance](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Brand%20Performance.png)
 
 ## Learning Outcome
 
