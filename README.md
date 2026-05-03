@@ -86,7 +86,7 @@ This project helped improve my skills in:
 
 ### Full Dashboard
 
-![Full Dashboard](ANG Retail Sales Dashboard PowerBI/Screenshots/Full%20Dashboard.png)
+![Full Dashboard](ANG%20Retail%20Sales%20Dashboard%20Power%20BI/Screenshots/Full%20Dashboard.png)
 
 ### KPI Analysis
 ![KPI Analysis](Screenshots/KPI%20Analysis.png)
